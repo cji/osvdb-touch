@@ -1,0 +1,4 @@
+# Don't push the Sencha library
+sencha-*
+
+.DS_Store
